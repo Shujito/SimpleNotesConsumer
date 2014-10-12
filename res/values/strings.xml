@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Simple Notes Consumer</string>
+    <string name="launcher_name">Simple Notes</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+
+</resources>
